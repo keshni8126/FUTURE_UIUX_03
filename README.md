@@ -1,5 +1,4 @@
 # FUTURE_UIUX_03
-# FUTURE_UIUX_03
 
 ## Project Title
 
